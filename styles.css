@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(43, 40, 40);
+    color:rgb(60, 100, 126);
+    text-align: center;
+}
+.head {
+    font-family:Georgia;
+    color:white;
+    text-align:center;
+    text-size-adjust:30px;
+}
+#ball {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:300px;
+}
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:larger;
+    font-style:bold;
+}
+a {
+    font-size:45px;
+    color:rgb(123, 167, 157)
+}
+img {
+    height:270px;
+}
