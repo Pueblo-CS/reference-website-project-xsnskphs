@@ -25,5 +25,15 @@ a {
     color:rgb(123, 167, 157)
 }
 img {
-    height:270px;
+    height:200px;
+}
+table {
+    display:block;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr {
+    background-color:aliceblue;
 }
