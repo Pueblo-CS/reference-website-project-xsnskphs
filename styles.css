@@ -1,6 +1,6 @@
 body {
     background-color:rgb(43, 40, 40);
-    color:rgb(60, 100, 126);
+    color:rgb(15, 21, 26);
     text-align: center;
 }
 .head {
@@ -33,7 +33,20 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
-
+.leauge-logo{
+    background-color: rgb(5, 5, 153);
+}
 tr {
     background-color:aliceblue;
+}
+.champions{
+    background-color: gold;
+}
+.relegated{
+    height:100px;
+    background-color: darkred;
+}
+.promoted{
+    height:100px;
+    background-color: green;
 }
